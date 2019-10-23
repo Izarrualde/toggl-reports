@@ -1,0 +1,21 @@
+{
+    "name": "solcre/toggl-reports",
+    "description": "Reports of Toggl",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Diego",
+            "email": "diego.r.izarrualde@gmail.com"
+        }
+    ],
+    "require": {
+        "ajt/guzzle-toggl": "^1.0@dev"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+        }
+    },
+    "minimum-stability": "dev"
+}
